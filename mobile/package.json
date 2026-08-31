@@ -1,0 +1,1 @@
+{"name": "JriSita-AI-Mobile", "version": "1.0.0", "description": "JriSita-AI Mobile App - React Native", "main": "index.js", "scripts": {"android": "react-native run-android", "ios": "react-native run-ios", "start": "react-native start"}, "dependencies": {"react": "18.2.0", "react-native": "0.71.0", "axios": "^1.4.0"}}
